@@ -1,5 +1,5 @@
 var gameMechanics = ["Destructible environments", "Collectibles", "Progression system", "Exploration"];
-var themes = ["Cyberpunk", "Steampunk", "Fantasy", "Biology"];
+var themes = ["Cyberpunk", "Steampunk", "Fantasy", "Biology", "Sci-fi"];
 
 function loadGameTemplate() {
   $.get('game.mst', function(template) {
