@@ -4,7 +4,7 @@
 	{{#mechs}}
 		<li>{{mech}}</li>
 	{{/mechs}}
-	<ul>
+	</ul>
 	<h2>Theme</h2>
 	<p>{{theme}}</p>
 </div>
