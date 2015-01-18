@@ -2,7 +2,8 @@ var gameMechanics = ["Destructible environments", "Collectibles", "Progression s
 "Exploration", "Puzzles", "Platforming", "Grapplehooks", "Single-screen", "Evolution", 
 "Dinosaurs", "Adapting Enemies", "Emotions", "Walking Simulator", "Pinball", "Racing", 
 "Sports", "Cards"];
-var themes = ["Cyberpunk", "Steampunk", "Fantasy", "Biology", "Sci-fi", "Noir", "Jurassic", "Chimeras", "Chinese horoscopes"];
+var themes = ["Cyberpunk", "Steampunk", "Fantasy", "Biology", "Sci-fi", "Noir", 
+	"Jurassic", "Chimeras", "Chinese horoscopes", "Music"];
 
 function loadGameTemplate() {
   $.get('game.mst', function(template) {
