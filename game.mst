@@ -4,5 +4,5 @@
 		<p>{{mech}}</p>
 	{{/mechs}}
 	<h3>(Optional) Theme</h3>
-	<p>{{theme}}</p>
+	<p><i>{{theme}}</i></p>
 </div>
