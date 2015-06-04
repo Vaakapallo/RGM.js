@@ -1,4 +1,4 @@
 <div class="game">
-	<p>Mechanics: {{#mechs}}{{mech}},{{/mechs}}</p>
-	<p>Theme: <i>{{theme}}</i></p>
+	<h3><b>Mechanics: {{#mechs}}{{mech}},{{/mechs}}</b></h3>
+	<h3>Theme: <i>{{theme}}</i></h3>
 </div>
