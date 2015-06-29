@@ -1,7 +1,8 @@
 var gameMechanics = ["Destructible environments", "Collectibles", "Progression system", 
-"Exploration", "Puzzles", "Platforming", "Single-screen", "Evolution", 
-"Dinosaurs", "Adapting Enemies", "Emotions", "First person", "Racing", 
-"Sports", "Cards", "Virtual Reality", "Speedrunning", "Touch controls", "Music"];
+"Exploration", "Puzzles", "Platforming", "Single-screen", "Evolution",
+"Adapting Enemies", "Emotions", "First person", "Racing", 
+"Sports", "Cards", "Virtual Reality", "Speedrunning", "Touch controls",
+"Music", "Time"];
 var themes = ["Cyberpunk", "Steampunk", "Fantasy", "Biology", "Sci-fi", "Noir", 
 	"Jurassic", "Chimeras", "Chinese horoscopes", "Pinball", "Zombies", "Vampires"];
 
